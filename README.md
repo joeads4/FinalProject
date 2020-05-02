@@ -5,6 +5,11 @@
 
 ![Image description](https://github.com/joeads4/FinalProject/blob/master/GameJam/Assets/Art/ScreenCap.png)
 
+NOTE: This game was made in Unity. You do not need Unity installed to play, just 
+go to the "Builds" folder, and find the application under either the Windows or Mac 
+folder, depending on your OS. If you have any troubles, feel free to message me on 
+Canvas!
+
 This game was developed as a final project for C220 as part of a 48-hour game jam. 
 
 When we considered the theme of Corona, we thought about it this way:
